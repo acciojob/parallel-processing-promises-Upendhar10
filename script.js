@@ -9,7 +9,7 @@ const images = [
 ];
 
 // optional: trigger on button click
-btn.addEventListener("click", Main);
+// btn.addEventListener("click", Main);
 
 function Main(){
 
